@@ -108,7 +108,7 @@
     "serverless-python-requirements": "~5.1.1",
     "serverless-ssm-publish": "^1.4.1",
     "winston": "^3.3.3",
-    "express-openid-connect": "2.3.0"
+    "express-openid-connect": "2.17.1"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.2",
